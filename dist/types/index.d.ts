@@ -1,1 +1,1 @@
-export { createLktEvent } from "./functions/functions";
+export { createLktEvent } from './functions/functions';

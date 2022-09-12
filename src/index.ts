@@ -1,3 +1,3 @@
 /* eslint-disable import/prefer-default-export */
 
-export {createLktEvent} from "./functions/functions";
+export { createLktEvent } from './functions/functions';
