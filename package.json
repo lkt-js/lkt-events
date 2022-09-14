@@ -1,9 +1,17 @@
 {
   "name": "lkt-events",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Events for LKT Web Tech",
   "main": "src/index.ts",
   "module": "src/index.ts",
+  "keywords": [
+    "lkt",
+    "lkt-web-tech",
+    "ts",
+    "typescript",
+    "js",
+    "javascript"
+  ],
   "files": [
     "assets/*",
     "dist/*",
@@ -26,7 +34,7 @@
     "test": "vitest",
     "test-coverage": "vitest run --coverage"
   },
-  "author": "Antonio Ibáñez",
+  "author": "Antonio Ibáñez <lkt.web.tech@gmail.com>",
   "devDependencies": {
     "@babel/core": "^7.13.13",
     "@babel/preset-env": "^7.13.12",
